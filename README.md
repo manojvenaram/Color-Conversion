@@ -85,24 +85,18 @@ cv2.waitKey(0)
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-<br>
-<br>
+![](1.png)
 
 ### ii) HSV to RGB and BGR
-<br>
-<br>
+![](2.png)
 
 ### iii) RGB and BGR to YCrCb
-<br>
-<br>
-
+![](3.png)
 ### iv) Split and merge RGB Image
-<br>
-<br>
+![](4.png)
 
 ### v) Split and merge HSV Image
-<br>
-<br>
+![](5.png)
 
 
 ## Result:
